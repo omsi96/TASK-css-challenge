@@ -8,12 +8,15 @@
   font-style: italic;
   background-color: blue;
   color: red;
-   
+
   position: sticky;
   top: 0;
 }
 
 .row {
+  background-color: rgb(190, 154, 154);
+  color: green;
+  overflow: scroll;
   /* .row is used in ./index.js not in the html filee */
 }
 
