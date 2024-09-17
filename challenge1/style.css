@@ -1,0 +1,15 @@
+img {
+  width: 40%;
+  display: block;
+  margin: auto;
+  padding-top: 50px;
+}
+body {
+  background-color: black;
+}
+div.a {
+  color: white;
+}
+ div.a h1.aa{
+    align-items: center;
+}
